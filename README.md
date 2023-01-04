@@ -4,11 +4,15 @@ Nama            : Fadoilul Mun'im
 
 Email           : fadoilulmun.im2807@gmail.com
 
-Nomor           : 085155214341
+Nomor HP/WA     : 085155214341
 
 Kampus          : Universitas Narotama
 
 Program Studi   : Teknik Informatika
+
+Semester        : 7
+
+Asal            : Surabaya
 
 ## System Requirements
 
